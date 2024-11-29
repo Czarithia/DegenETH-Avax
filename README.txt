@@ -1,5 +1,6 @@
 # Overview
-DegenToken is an ERC20-compliant smart contract designed for the Avalanche network, specifically for use in the Degen Gaming ecosystem. This token allows for seamless minting, transferring, redeeming, and burning functionalities to enhance the in-game economy.
+DegenToken is an ERC20-compliant smart contract designed for the Avalanche network, specifically for use in the Degen Gaming ecosystem. 
+This token allows for seamless minting, transferring, redeeming, and burning functionalities to enhance the in-game economy.
 
 # Features
 Minting Tokens
